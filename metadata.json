@@ -1,0 +1,6 @@
+{
+  "name": "MindVault – Personal AI Memory Assistant",
+  "description": "AI-powered personal memory assistant to save, organize, search, chat with, and study from your notes, PDFs, documents, images, and links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
